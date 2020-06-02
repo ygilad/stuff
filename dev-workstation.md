@@ -7,6 +7,7 @@
 - System
 	- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 	- [WinDirStat](https://windirstat.net/)
+	- [Cmder](https://cmder.net/) cmd replacement
 
 ### Development
 - Mysql Console Client [mycli](https://www.mycli.net/ "mycli")
