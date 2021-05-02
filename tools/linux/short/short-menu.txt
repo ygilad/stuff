@@ -1,0 +1,28 @@
+\e[1m Shortcuts Menu \e[0m
+
+    \e[1m cdallotsecure \e[0m
+        go to ~/dev/allotsecure
+
+    \e[1m dcu \e[0m
+        Docker compose up with dev config
+
+    \e[1m dcup \e[0m
+        Docker compose up with patch & dev config
+
+    \e[1m dcd \e[0m
+        Docker compose down
+
+    \e[1m dcps \e[0m
+        Show all processes for docker compose
+
+    \e[1m dcr \e[0m\e[90m[short_service]\e[0m
+        Restart a docker compose service with pattern allotsecure_\e[90m[short_service]\e[0m_1
+        Example:  dcr cbclient
+
+    \e[1m dl \e[0m\e[90m[short_service]\e[0m
+        docker logs for service with pattern allotsecure_\e[90m[short_service]\e[0m_1
+        Example:  dl cbclient
+
+    \e[1m de \e[0m\e[90m[short_service]\e[0m [command]
+        docker exec for service with pattern allotsecure_\e[90m[short_service]\e[0m_1 with given command or bash as default
+        Example:  de accounts ; de accounts ls -la
