@@ -8,3 +8,5 @@
       source ~/shorts/set-aliases.sh
   fi
   ```
+## usage
+Type `menu_shortcuts` to see the alias` menu
