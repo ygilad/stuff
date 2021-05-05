@@ -4,8 +4,8 @@
 - add the following in `.bashrc` with `vim ~/.bashrc`
   ```
   # UVG conviniance aliases
-  if [ -f ~/shorts/set-aliases.sh ]; then
-      source ~/shorts/set-aliases.sh
+  if [ -f ~/short/set-aliases.sh ]; then
+      source ~/short/set-aliases.sh
   fi
   ```
 ## usage
