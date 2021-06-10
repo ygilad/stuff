@@ -11,10 +11,12 @@
 
 ### Development
 - Mysql Console Client [mycli](https://www.mycli.net/ "mycli")
+- virtualization 
+	- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+	- Kubernetes IDE - [Lens](https://k8slens.dev/)
 - SSH, SFTP ect.
 	- [mobaXterm](http://mobaxterm.mobatek.net/)
-	- [Multi PuTTY Manager](https://sourceforge.net/projects/multiputtymanager/)
-	- [WinSCP](https://winscp.net/eng/download.php)
+	- [MTPuTTY (Multi-Tabbed PuTTY)](https://ttyplus.com/) + [KiTTY](https://www.9bis.net/kitty/#!pages/download.md) + [WinSCP](https://winscp.net/eng/download.php)
 
 ### Productivity
 - Clipboard Manager: [ClipX](http://bluemars.org/clipx/ "ClipX") OR [Ditto](https://ditto-cp.sourceforge.io/)
